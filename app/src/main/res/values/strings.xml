@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="action_settings">Settings</string>
+    <string name="oui">OUI</string>
+    <string name="non">NON</string>
+    <string name="ok">OK</string>
+</resources>

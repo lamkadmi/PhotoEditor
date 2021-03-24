@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="violet">#F86E1F77</color>
+    <color name="prune">#A4006B</color>
+    <color name="framboise">#CD0037</color>
+    <color name="orange">#CA3A1A</color>
+    <color name="jaune_safran">#FFB612</color>
+    <color name="jaune_clair">#FFFF99</color>
+    <color name="vert_anis">#D2FF00</color>
+    <color name="vert_pomme">#82BE00</color>
+    <color name="bleu_canard">#009AA6</color>
+    <color name="bleu_primaire">#0088CE</color>
+    <color name="rouge_assistance">#D52B1E</color>
+    <color name="carbone">#3C3732</color>
+    <color name="warm_grey_1">#E0DED8</color>
+    <color name="warm_grey_3">#C3BEB4</color>
+    <color name="warm_grey_5">#AFA59B</color>
+    <color name="warm_grey_7">#988F86</color>
+    <color name="warm_grey_9">#82786F</color>
+    <color name="warm_grey_11">#675C53</color>
+    <color name="cool_grey_1">#E1E1E1</color>
+    <color name="cool_grey_3">#D7D7D7</color>
+    <color name="cool_grey_5">#B9B9B9</color>
+    <color name="cool_grey_7">#A0A0A0</color>
+    <color name="cool_grey_9">#747678</color>
+    <color name="cool_grey_11">#4D4F53</color>
+</resources>
